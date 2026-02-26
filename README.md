@@ -17,6 +17,6 @@ Abaixo está o índice das resenhas já produzidas (clique no link para abrir o 
 
 ## 👨‍💻 Sobre o Autor
 
-**Bernardo Gonçalves Perez**
+**Bernardo Gonçalves Levy**
 * Estudante e desenvolvedor em formação.
 * Atualmente trabalhando na programação de lógicas e interfaces dinâmicas para pesquisas de mercado, lidando diariamente com o desafio de equilibrar prazos ágeis, scripts em jQuery e a manutenção da estabilidade do software em produção.
