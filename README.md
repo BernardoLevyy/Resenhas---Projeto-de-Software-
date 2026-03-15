@@ -14,6 +14,9 @@ Abaixo está o índice das resenhas já produzidas (clique no link para abrir o 
 * **[2. Microservices: a definition of this new architectural term (James Lewis e Martin Fowler)](./Resenha_2_Microservices.pdf)**
   * *Resumo:* Uma exploração do conceito arquitetural de microsserviços, focando na descentralização, escalabilidade e independência de componentes. O texto contrasta as dores e complexidades dos sistemas distribuídos com a agilidade necessária no dia a dia, refletindo sobre como a separação de responsabilidades via APIs pode otimizar validações complexas e melhorar a coleta de dados em plataformas de pesquisa fechadas.
 
+* **[3. No Silver Bullet: Essence and Accidents of Software Engineering (Frederick P. Brooks)](./Resenha_3_NoSilverBullet.pdf)**
+  * *Resumo:* Revisão do ensaio clássico que desmistifica a existência de soluções mágicas para o aumento da produtividade no desenvolvimento de software. A resenha aborda a diferença entre a complexidade essencial e acidental dos sistemas, aplicando o conceito de "comprar ao invés de construir" e o desenvolvimento incremental à realidade da utilização do Qualtrics e do jQuery na programação de formulários de pesquisa.
+
 *(Novas resenhas serão adicionadas aqui ao longo do semestre).*
 
 ---
@@ -22,4 +25,4 @@ Abaixo está o índice das resenhas já produzidas (clique no link para abrir o 
 
 **Bernardo Gonçalves Levy**
 * Estudante e desenvolvedor em formação.
-* Atualmente trabalhando na programação de lógicas e interfaces dinâmicas para pesquisas de mercado, lidando diariamente com o desafio de equilibrar prazos ágeis, scripts em jQuery e a manutenção da estabilidade do software em produção.
+* Atualmente trabalhando na programação de lógicas e interfaces dinâmicas para pesquisas de mercado, lidando diariamente com o desafio de equilibrar prazos ágeis, scripts em jQuery e a manutenção da estabilidade do software em produção na Offerwise.
