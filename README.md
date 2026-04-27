@@ -9,22 +9,28 @@ Este espaço foi criado para documentar e organizar as análises críticas de ar
 Abaixo está o índice das resenhas já produzidas (clique no link para abrir o PDF):
 
 * **[1. Big Ball of Mud (Brian Foote e Joseph Yoder)](./Resenha_1_BigBallOfMud.pdf)**
-  * *Resumo:* Uma análise sobre a arquitetura "Grande Bola de Lama", o padrão de fato mais utilizado na indústria de software. A resenha conecta esses conceitos com a realidade ágil da programação de questionários para pesquisas de mercado.
+  * *Resumo:* Uma análise sobre a arquitetura "Grande Bola de Lama", relacionando as forças de mercado e prazos ágeis com a programação de questionários para pesquisas de mercado.
 
 * **[2. Microservices: a definition of this new architectural term (James Lewis e Martin Fowler)](./Resenha_2_Microservices.pdf)**
-  * *Resumo:* Exploração do conceito de microsserviços. O texto contrasta as dores dos sistemas distribuídos com a agilidade necessária no dia a dia, refletindo sobre a separação de responsabilidades via APIs em plataformas de pesquisa fechadas.
+  * *Resumo:* Exploração da arquitetura de microsserviços, contrastando as complexidades dos sistemas distribuídos com a separação de responsabilidades via APIs em plataformas fechadas.
 
 * **[3. No Silver Bullet: Essence and Accidents of Software Engineering (Frederick P. Brooks)](./Resenha_3_NoSilverBullet.pdf)**
-  * *Resumo:* Revisão do ensaio que desmistifica soluções mágicas na engenharia de software, aplicando o conceito de "comprar ao invés de construir" à realidade da utilização do Qualtrics e do jQuery na programação de formulários.
+  * *Resumo:* Revisão do ensaio clássico sobre as dificuldades essenciais do software, aplicando o conceito de "comprar ao invés de construir" à utilização do Qualtrics na programação de formulários.
 
 * **[4. On the Criteria To Be Used in Decomposing Systems into Modules (D.L. Parnas)](./Resenha_4_CriteriosModularizacao.pdf)**
-  * *Resumo:* Análise sobre o conceito de "ocultação de informação" (*information hiding*). Destaca a importância de separar a manipulação do DOM da plataforma Qualtrics da lógica de negócio dos questionários.
+  * *Resumo:* Análise do conceito de "ocultação de informação" (*information hiding*) e a importância de separar a manipulação do DOM da plataforma Qualtrics da lógica central de negócio.
 
 * **[5. Facade Pattern (Refactoring.Guru)](./Resenha_5_Facade.pdf)**
-  * *Resumo:* Estudo sobre o padrão estrutural Facade, que fornece uma interface simplificada para sistemas complexos. Discute a criação de uma "fachada" em JavaScript/jQuery para proteger a lógica dos questionários das mudanças estruturais internas.
+  * *Resumo:* Estudo do padrão estrutural Facade, focando na criação de uma "fachada" em JavaScript/jQuery para proteger a lógica dos questionários das mudanças estruturais de frameworks de terceiros.
 
 * **[6. Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions (Hou et al.)](./Resenha_6_MCP_Security.pdf)**
-  * *Resumo:* Uma análise sobre o protocolo de código aberto que padroniza a comunicação entre modelos de IA e ferramentas externas. A resenha explora a taxonomia de ameaças cibernéticas (como injeção indireta de *prompts* e vazamento de credenciais) introduzidas pela descentralização, conectando esses riscos à necessidade crítica de segurança e isolamento no tratamento de dados sensíveis em pesquisas de mercado.
+  * *Resumo:* Análise das ameaças cibernéticas em protocolos de comunicação de IA, conectando a necessidade de isolamento (*sandboxing*) com o tratamento de dados sensíveis na pesquisa de mercado.
+
+* **[7. Software Architecture: a Roadmap (David Garlan)](./Resenha_7_SoftwareArchitectureRoadmap.pdf)**
+  * *Resumo:* Reflexão sobre a evolução da arquitetura e o desafio do *component mismatch*, abordando como scripts customizados funcionam como "cola" integradora em plataformas robustas.
+
+* **[8. Hexagonal Architecture / Ports and Adapters (Alistair Cockburn)](./Resenha_8_HexagonalArchitecture.pdf)**
+  * *Resumo:* Estudo sobre o padrão Portas e Adaptadores. A resenha aborda a importância de tratar plataformas e interfaces web apenas como "detalhes periféricos", isolando a lógica de negócio dos questionários para garantir alta testabilidade e imunidade a quebras visuais.
 
 *(Novas resenhas serão adicionadas aqui ao longo do semestre).*
 
