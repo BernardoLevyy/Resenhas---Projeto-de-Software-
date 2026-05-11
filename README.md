@@ -6,7 +6,7 @@ Este espaço foi criado para documentar e organizar as análises críticas de ar
 
 ## 📝 Artigos Resenhados
 
-Abaixo está o índice das resenhas já produzidas (clique no link para abrir o PDF):
+Abaixo está o índice das resenhas produzidas (clique no link para abrir o PDF):
 
 * **[1. Big Ball of Mud (Brian Foote e Joseph Yoder)](./Resenha_1_BigBallOfMud.pdf)**
   * *Resumo:* Uma análise sobre a arquitetura "Grande Bola de Lama", relacionando as forças de mercado e prazos ágeis com a programação de questionários para pesquisas de mercado.
@@ -30,14 +30,18 @@ Abaixo está o índice das resenhas já produzidas (clique no link para abrir o 
   * *Resumo:* Reflexão sobre a evolução da arquitetura e o desafio do *component mismatch*, abordando como scripts customizados funcionam como "cola" integradora em plataformas robustas.
 
 * **[8. Hexagonal Architecture / Ports and Adapters (Alistair Cockburn)](./Resenha_8_HexagonalArchitecture.pdf)**
-  * *Resumo:* Estudo sobre o padrão Portas e Adaptadores. A resenha aborda a importância de tratar plataformas e interfaces web apenas como "detalhes periféricos", isolando a lógica de negócio dos questionários para garantir alta testabilidade e imunidade a quebras visuais.
+  * *Resumo:* Estudo sobre o padrão Portas e Adaptadores. A resenha aborda a importância de tratar plataformas e interfaces web apenas como "detalhes periféricos", isolando a lógica de negócio dos questionários.
 
-*(Novas resenhas serão adicionadas aqui ao longo do semestre).*
+* **[9. Object Constraint Language (OCL): a Definitive Guide (Jordi Cabot e Martin Gogolla)](./Resenha_9_OCL_Guide.pdf)**
+  * *Resumo:* Estudo sobre a linguagem OCL como complemento necessário à UML. A resenha explora a natureza declarativa da linguagem e aplica os conceitos de invariantes e contratos à validação rigorosa de fluxos e cotas.
+
+* **[10. Design by Contract (Bertrand Meyer)](./Resenha_10_DesignByContract.pdf)**
+  * *Resumo:* Análise da metáfora de contratos aplicada à construção de software. A resenha discute o uso de asserções (pré/pós-condições) para garantir a robustez, conectando-a com a necessidade de interfaces estáveis em scripts dinâmicos.
 
 ---
 
 ## 👨‍💻 Sobre o Autor
 
 **Bernardo Gonçalves Levy**
-* Estudante e desenvolvedor em formação.
-* Atualmente trabalhando na programação de lógicas e interfaces dinâmicas para pesquisas de mercado, lidando diariamente com o desafio de equilibrar prazos ágeis, scripts em jQuery e a manutenção da estabilidade do software em produção na Offerwise.
+* Estudante e desenvolvedor em formação (Engenharia de Software - PUC Minas).
+* Atualmente trabalhando na programação de lógicas e interfaces dinâmicas para pesquisas de mercado, lidando diariamente com o desafio de equilibrar prazos ágeis e a manutenção da estabilidade do software em produção na Offerwise.
